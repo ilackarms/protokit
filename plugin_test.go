@@ -1,8 +1,8 @@
 package protokit_test
 
 import (
-	"github.com/golang/protobuf/proto"
-	"github.com/golang/protobuf/protoc-gen-go/plugin"
+	"github.com/gogo/protobuf/proto"
+	"github.com/gogo/protobuf/protoc-gen-gogo/plugin"
 	"github.com/stretchr/testify/suite"
 
 	"bytes"
