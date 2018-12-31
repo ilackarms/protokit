@@ -1,7 +1,7 @@
 package protokit
 
 import (
-	"github.com/golang/protobuf/protoc-gen-go/descriptor"
+	"github.com/gogo/protobuf/protoc-gen-gogo/descriptor"
 
 	"bytes"
 	"strconv"

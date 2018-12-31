@@ -6,8 +6,8 @@
 //
 // Getting Started
 //
-// For a quick view of how to get started, see https://godoc.org/github.com/pseudomuto/protokit#example-RunPlugin
+// For a quick view of how to get started, see https://godoc.org/github.com/ilackarms/protokit#example-RunPlugin
 //
 // If you want see/try a working example, check out the examples in
-// https://github.com/pseudomuto/protokit/tree/master/examples.
+// https://github.com/ilackarms/protokit/tree/master/examples.
 package protokit

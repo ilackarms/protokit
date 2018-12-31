@@ -5,7 +5,7 @@ import (
 
 	"testing"
 
-	"github.com/pseudomuto/protokit/utils"
+	"github.com/ilackarms/protokit/utils"
 )
 
 type StringsTest struct {
